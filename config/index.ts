@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'DulinoBot',
-  description: '',
+  description: 'Bot para a empresa Dulino',
   copyright: '',
   privacy_policy: '',
   default_language: 'en',

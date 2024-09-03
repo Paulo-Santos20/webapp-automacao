@@ -5,8 +5,8 @@ const translation = {
     appUnkonwError: 'App não está funcionando',
   },
   chat: {
-    newChat: 'Nova Conversa',
-    newChatDefaultName: 'Nova Conversa',
+    newChat: 'Nova Conversa com o',
+    newChatDefaultName: 'Nova Conversa com o',
     openingStatementTitle: 'Opening statement',
     powerBy: 'Criado por',
     prompt: 'Prompt',
@@ -14,22 +14,22 @@ const translation = {
     publicPromptConfigTitle: 'Prompt Inicial',
     configStatusDes: 'Antes de iniciar, você pode modificar as configurações',
     configDisabled:
-      'Previous session settings have been used for this session.',
-    startChat: 'Falar',
+      'Configurações da antiga sessão, serão usadas nessa.',
+    startChat: 'Conversar',
     privacyPolicyLeft:
-      'Please read the ',
+      'Por favor leia o ',
     privacyPolicyMiddle:
-      'privacy policy',
+      'prolitícas de privacidades',
     privacyPolicyRight:
-      ' provided by the app developer.',
+      ' fornecido para a Dulino.',
   },
   errorMessage: {
-    valueOfVarRequired: 'Variables value can not be empty',
+    valueOfVarRequired: 'Valores da variáveis não podem ficar em branco',
     waitForResponse:
-      'Please wait for the response to the previous message to complete.',
+      'Espero pela resposta da questão anterior para continuar.',
   },
   variableTable: {
-    optional: 'Optional',
+    optional: 'Opcional',
   },
 }
 
